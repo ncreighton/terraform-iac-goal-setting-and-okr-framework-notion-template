@@ -1,0 +1,2 @@
+# terraform-iac-goal-setting-and-okr-framework-notion-template
+This Terraform &amp; IaC Goal Setting and OKR Framework Notion Template is designed for DevOps teams, platform engineers, and cloud architects who want to align their infrastructure-as-code efforts with strategic business objectives. It provides a structured system to define, track, and review Objectives and Key Results (OKRs) specifically for Terrafor
